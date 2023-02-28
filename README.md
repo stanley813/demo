@@ -1,1 +1,1 @@
- just show hot to use skywalking..
+ just show how to use skywalking..
